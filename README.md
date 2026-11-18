@@ -1,4 +1,4 @@
-# Compilador MiniLua
+# MiniLua Compiler
 
 ## Sobre o projeto
 
